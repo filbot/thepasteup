@@ -1,0 +1,1082 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bord",
+				"border"
+			],
+			[
+				"grid",
+				"grid-container"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"call",
+				"callbackFunction"
+			],
+			[
+				"do",
+				"documentElement"
+			],
+			[
+				"sc",
+				"scaleX"
+			],
+			[
+				"sca",
+				"scaleY"
+			],
+			[
+				"tra",
+				"translate3d"
+			],
+			[
+				"im",
+				"imageUrl"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"img",
+				"imageHTML"
+			],
+			[
+				"sm",
+				"smart-image-container"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"pe",
+				"parent"
+			],
+			[
+				"sma",
+				"smart-image"
+			],
+			[
+				"gp",
+				"gpioFunction"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"q",
+				"q-a-with-justin"
+			],
+			[
+				"vi",
+				"vertical-align"
+			],
+			[
+				"wek",
+				"webkit-flex"
+			],
+			[
+				"ro",
+				"rotate-device-message"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"soundtrack-now",
+				"soundtrack-now-playing-title"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"b",
+				"border-left"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"landing",
+				"landing-title"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"tr",
+				"trivia-game"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"backgrou",
+				"background-size"
+			],
+			[
+				"le",
+				"letter-title"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"lett",
+				"letter-from-justin"
+			],
+			[
+				"lette",
+				"letter-title"
+			],
+			[
+				"sec",
+				"sectionB"
+			],
+			[
+				"se",
+				"sectionB"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"letter",
+				"letter-from-justin"
+			],
+			[
+				"cur",
+				"cur:p	cursor:pointer"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"t",
+				"twitter-logo"
+			],
+			[
+				"na",
+				"navigator-container"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"r",
+				"rgba()"
+			],
+			[
+				"BA",
+				"background-repeat"
+			],
+			[
+				"j",
+				"jquery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/partials/partial1.html",
+			"settings":
+			{
+				"buffer_size": 458,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/css/app.css",
+			"settings":
+			{
+				"buffer_size": 1669,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"tidy",
+				"TidyHTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 561.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/filipadamczyk/Sites/filbot/thepasteup/app/js/controllers.js",
+		"/Users/filipadamczyk/Sites/instafart.html",
+		"/Users/filipadamczyk/Sites/filbot/thepasteup/app/js/app.js",
+		"/Users/filipadamczyk/Sites/filbot/thepasteup/app/js/directives.js",
+		"/Users/filipadamczyk/Sites/filbot/dribbble-clone/app/scripts/controllers/main.js",
+		"/Users/filipadamczyk/Sites/filbot/dribbble-clone/app/index.html",
+		"/Users/filipadamczyk/Sites/filbot/dribbble-clone/app/views/main.html",
+		"/Users/filipadamczyk/Sites/filbot/dribbble-clone/app/scripts/jquery.lazyload.js",
+		"/Users/filipadamczyk/Sites/filbot/dribbble-clone/app/scripts/app.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/lib/n2/styles/_n2.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/content/sections/welcome/_welcome.scss",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/lib/n2/components/filbot/_filbot.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/lib/n2/components/filbot/filbot.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/lib/n2/components/modal/_modal.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/index.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/lib/n2/components/smart-image/_smart-image.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/doc/docs.css",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/styleDocs/images.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/styleDocs/typography.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/styleDocs/basestyles.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/styleDocs/index.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/sections/appshell/_appshell.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/basestyles.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/images.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/bast-styles.css",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/index.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/layout.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/typography.doc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/typography.ngdoc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/layout.ngdoc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/images.ngdoc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/web/styles/baseStyleDocs/basestyles.ngdoc",
+		"/Users/filipadamczyk/Sites/subatomic/n2-appshells/doc/resources/css/custom.css",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/filipadamczyk/Sites/filbot/simpleExpress/app/views/layout.jade",
+		"/Users/filipadamczyk/Sites/filbot/simpleExpress/app/app.js",
+		"/Users/filipadamczyk/Sites/filbot/express-skeleton/views/index.jade",
+		"/Users/filipadamczyk/Sites/filbot/express-skeleton/views/layout.jade",
+		"/Users/filipadamczyk/Sites/filbot/express-skeleton/public/javascripts/script.js",
+		"/Users/filipadamczyk/Sites/filbot/express-skeleton/app.js",
+		"/Users/filipadamczyk/Sites/filbot/filip-learns-js/index.html",
+		"/Users/filipadamczyk/Sites/filbot/filip-learns-js/js/script.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/jt.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/app.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/index.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/node_modules/grunt-bower-hooks/node_modules/bower/lib/commands/install.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/q-a-with-justin/_q-a-with-justin.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/q-a-with-justin/q-a-with-justin.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/image-gallery/image_gallery_template.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/letter-from-justin/_letter-from-justin.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/letter-from-justin/letter-from-justin.html",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/TidyHTML5/TidyHTML.sublime-settings",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/User/TidyHTML.sublime-settings",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/make-it-platinum/_make-it-platinum.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/make-it-platinum/sectionB.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/soundtrack-player/soundtrack_player.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/soundtrack-player/_soundtrack-player.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/styles/_n2.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/n2.sublime-project",
+		"/Users/filipadamczyk/Sites/filbot/dntr/app/partials/main.html",
+		"/Users/filipadamczyk/Sites/filbot/dntr/app/css/app.css",
+		"/Users/filipadamczyk/Desktop/N2 List.txt",
+		"/Users/filipadamczyk/Sites/filbot/dntr/app/index.html",
+		"/Users/filipadamczyk/Sites/filbot/dntr/app/partials/partial1.html",
+		"/Users/filipadamczyk/Sites/filbot/dntr/README.md",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/data/content.json",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/global-ui/global_ui_top.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/fancybox2/jquery.fancybox.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/landing-pane/landing-pane.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/landing-pane/_landing-pane.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/navigator/navigator.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/navigator/_navigator.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/make-it-platinum/sectionA.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/toc/_toc-pane.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/toc/toc-pane.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/toc/toc.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/media-gallery/_media-gallery.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/get-social/get-social.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/get-social/_get-social.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/trivia/_trivia.scss",
+		"/Users/filipadamczyk/Sites/animation.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/styles/_custom.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/landing-pane",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/inuit/_styles.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/toc/_toc.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/styles/src/_vars.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/article/short_article_template.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/styles/style.css",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/toc.json",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/get-social/get-social.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/content.json",
+		"/Users/filipadamczyk/Sites/subatomic/jt-reskin/server/web/js/views/community.js",
+		"/Users/filipadamczyk/Sites/subatomic/jt-reskin/server/web/css/base.css",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/article/long_article_template.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/article/_short-article.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/make-it-platinum/make-it-platinum-1.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/make-it-platinum/make-it-platinum-0.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/media-gallery/media-gallery.html",
+		"/Users/filipadamczyk/Sites/filbot/bootstrap/index.html",
+		"/Users/filipadamczyk/Sites/filbot/bootstrap/css/style.css",
+		"/Users/filipadamczyk/Sites/subatomic/jt-reskin/server/web/html/views/aboutskyfall.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/image-gallery/test_gallery.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/styles/src/style.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/global-ui/global_ui.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/sections/global-ui/_global-ui.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/main/_main.scss",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/User/ApplySyntax.sublime-settings",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/User/Find Results.sublime-settings",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/User/Soda Dark.sublime-theme",
+		"/Users/filipadamczyk/Sites/subatomic/n2/Gruntfile.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/stack/_stack.scss",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/smart-image/smart-image.js",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/lib/n2/components/smart-image/smart_image.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/modal-image/modal-image.html",
+		"/Users/filipadamczyk/Sites/subatomic/n2/web/content/sections/modal-image/modal-image.js",
+		"/Users/filipadamczyk/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/filipadamczyk/Sites/subatomic/n2-appshells",
+			"/Users/filipadamczyk/Sites/subatomic/n2",
+			"/Users/filipadamczyk/Sites/subatomic/jt-reskin",
+			"/Users/filipadamczyk/Sites/subatomic/n2",
+			"/Users/filipadamczyk/Sites/subatomic/jt-reskin",
+			"/Users/filipadamczyk/Sites/subatomic/n2",
+			"/Users/filipadamczyk/Sites/subatomic/jt-reskin",
+			"/Users/filipadamczyk/Sites/subatomic/n2",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".grid",
+			".grid ",
+			"data",
+			"<div>",
+			"shots",
+			"pics",
+			"pic",
+			"0;",
+			".smart-image-container",
+			"margin: 0 auto;",
+			"trim",
+			"all 600ms easeInOutBack;",
+			"100",
+			"modal",
+			"div",
+			"$scope",
+			".n2-modal-container",
+			"timeout",
+			"pt-page-flipInTop",
+			"pt-page-scaleDownUp",
+			"pt-page-scaleUp",
+			"data-src=\"holder.js/140x140\" ",
+			"<pre>\n</pre>",
+			"sero",
+			"24",
+			"example",
+			"demo",
+			"|| {};",
+			"pane",
+			"              <div class=\"image-in-modal one\"></div>\n",
+			".image-in-modal",
+			"pane",
+			".image-in-modal",
+			"src=",
+			"img",
+			"row",
+			"3",
+			"7",
+			"0",
+			"img-left",
+			"tabs",
+			"spin",
+			"span",
+			"soundtrack-now-playing-title",
+			"span",
+			"fade",
+			"fadeInUp",
+			"div",
+			"span",
+			"soundtrack-now-playing-title",
+			"span",
+			"text-shadow: 0 2px 8px rgba(255,255,255,0.4);",
+			"0,0,0,0",
+			"0,0,0",
+			"fff",
+			"5rem",
+			"fonts",
+			"flip-button",
+			".n2-icon",
+			"entypo",
+			"@font-face",
+			"@font-fave",
+			"closeBtn",
+			"toc",
+			"assets",
+			"jpg",
+			"q-a-with-justin",
+			"letter-from-justin",
+			"EyeExam",
+			"false",
+			"2",
+			"div",
+			"_vars.scss",
+			"span",
+			"palm",
+			"assets/community/",
+			"mediaButton",
+			"article",
+			"social-stream",
+			"content/assets/",
+			"jt-tux",
+			".aboutskyfall",
+			"fadeInUp",
+			"animation-duration: 1s;\n	opacity: 0;",
+			".letter",
+			"span",
+			"fadeInUp",
+			"fadInUp",
+			"fadinup",
+			"entypo",
+			".aboutskyfall",
+			"div",
+			"fadeInUp",
+			"offset-one",
+			"bookhou.com",
+			"span",
+			".q-a-with-justin",
+			"long",
+			"long-article-pane-background",
+			"nu-action=\"showview: twitter\" ",
+			"nu-action=\"showview: ",
+			".modalvideogallery",
+			".castandcrew",
+			"craigarticle",
+			"get-social",
+			"console.log",
+			"make-it-platinum",
+			"long-article",
+			"get-social",
+			"letter-from-justin",
+			"media-gallery",
+			"letter-from-justin",
+			"image-gallery",
+			"image",
+			"galleryimage",
+			"sections",
+			"shortArticleExample",
+			"url(",
+			"overview",
+			"entypo",
+			"global-ui",
+			".global-ui .toc-button",
+			"entypo",
+			"#000000",
+			".navigator-container",
+			"overview-thumbnail.png",
+			"http://localhost:9000/content/sections/overview/assets/overview-thumbnail.png",
+			".navigator-container"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								254,
+								254
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "1b5c9bf7",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/partials/partial1.html",
+					"settings":
+					{
+						"buffer_size": 458,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								458,
+								458
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "44dafc6b",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/css/app.css",
+					"settings":
+					{
+						"buffer_size": 1669,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								916,
+								916
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"buffer_scroll_name": "18f34d0c",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": false,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": "save-only",
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": true,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 363.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.sftp":
+	{
+		"height": 133.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true
+}
