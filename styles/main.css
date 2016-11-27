@@ -5,6 +5,10 @@
     margin-left: 2rem;
 }
 
+footer {
+    text-align: center;
+}
+
 .grid {
     position: relative;
     margin: 0 auto;
