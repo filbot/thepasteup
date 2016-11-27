@@ -9,6 +9,11 @@ footer {
     text-align: center;
 }
 
+footer a {
+    text-decoration: none;
+    color: #999;
+}
+
 .grid {
     position: relative;
     margin: 0 auto;
